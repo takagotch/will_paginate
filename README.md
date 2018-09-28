@@ -23,3 +23,5 @@ Post.page(params[:page]).order('created_at DESC')
 
 ```
 
+https://github.com/mislav/will_paginate/wiki/Installation
+
